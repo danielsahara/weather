@@ -8,8 +8,8 @@ A simple app to get the weather of a city.
 - Jquery
 
 ## How to install
-npm install
-npm start
+- npm install
+- npm start
 
 ## Heroku Link
 https://ancient-forest-86215.herokuapp.com/
